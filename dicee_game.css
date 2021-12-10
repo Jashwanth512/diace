@@ -1,0 +1,42 @@
+.body
+{
+	background:gray;
+}
+#title
+{
+	text-align: center;
+	color: #74278E;
+	font-family: sans-serif;
+	font-size: 5rem;
+}
+.square1 img
+{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left: 175px;
+	margin-top: 40px;
+}
+.square2 img
+{
+	margin-top: 40px;
+	width:200px;
+	height:200px;
+	float: right;
+	margin-right: 175px;
+}
+span
+{
+	font-size: 4rem;
+}
+button
+{	
+	margin-top: 300px;
+	float: bottom;
+	padding: 10px 15px 10px 15px;
+	font-family:serif;
+	font-size: 20px;
+	color: white;
+	background: gray;
+
+}
